@@ -14,4 +14,4 @@
 *.rar
 
 # Property File with Passwords
-*/my.properties
+*/src/main/resources/my.properties
