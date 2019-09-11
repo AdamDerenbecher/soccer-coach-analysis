@@ -14,4 +14,4 @@
 *.rar
 
 # Property File with Passwords
-target/classes/my.properties
+*/my.properties
