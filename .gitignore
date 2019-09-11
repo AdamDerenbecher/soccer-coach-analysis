@@ -12,4 +12,6 @@
 *.zip
 *.tar.gz
 *.rar
-*.properties
+
+# Properties File
+my.properties
