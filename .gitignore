@@ -12,6 +12,4 @@
 *.zip
 *.tar.gz
 *.rar
-
-# Property File with Passwords
-*/src/main/resources/my.properties
+*.properties
